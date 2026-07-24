@@ -30,8 +30,14 @@ data/
 
 ## Purpose of the Study
 The aim of this study is to use electrocardiogram (`ECG`) data to detect anomalies in a patient’s heartbeat.
-
-
+```text
+There are five classes:
+1) Normal (N)
+2) R-on-T Premature Ventricular Contraction (Ron-T PVC)
+3) Premature Ventricular Contraction (PVC)
+4) Supraventricular Premature or Ectopic beat (SP)
+5) Unclassified beat (UB)
+```
 >  ##   **References:**
 > 1.  **https://www.timeseriesclassification.com/description.php?Dataset=ECG5000** 
 > 2. **https://www.openml.org/search?type=data&sort=runs&id=44794&status=active** 
