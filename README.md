@@ -68,9 +68,10 @@ For the anomaly detection task:
 
 
 
+## References
 
-  ## **References:**
-  ``` text 
-> 1.  https://www.timeseriesclassification.com/description.php?Dataset=ECG5000
-> 2.  https://www.openml.org/search?type=data&sort=runs&id=44794&status=active
-```
+- **Time Series Classification Archive**  
+  https://www.timeseriesclassification.com/description.php?Dataset=ECG5000
+
+- **OpenML – ECG5000 Dataset (Luís Ferreira, 2022)**  
+  https://www.openml.org/search?type=data&sort=runs&id=44794&status=active
