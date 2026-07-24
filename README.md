@@ -10,17 +10,23 @@ The `ECG5000 ` dataset contains 5,000 ECG heartbeat samples. Each sample consist
 
 ```text
 ecg5000-anomaly-detection-time-series/
+│
 ├── data/
 │   ├── ECG5000.zip
 │   ├── ECG5000_TRAIN.txt
 │   ├── ECG5000_TEST.txt
 │   ├── ecg.csv
 │   └── README.md
+│
+├── my paper/
+│   └── README.md # Project manuscript and LaTeX files
+│
 ├── papers/
-│   └── related research papers...
+│   └── Related research papers
+│
 ├── ecg5000.py
+├── my-study.tex
 └── README.md
-
 ```
 ## Dataset File Structure
 
