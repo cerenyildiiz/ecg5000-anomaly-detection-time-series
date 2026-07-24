@@ -40,10 +40,15 @@ The ECG5000 dataset includes five different heartbeat classes. Since this study 
 3. Premature Ventricular Contraction (PVC)
 4. Supraventricular Premature or Ectopic Beat (SP)
 5. Unclassified Beat (UB)
+```
+
+
+```text
 For the anomaly detection task:
 • Normal: Class 1
 • Anomalous: Classes 2, 3, 4, and 5
 ```
+
 >  ##   **References:**
 > 1.  **https://www.timeseriesclassification.com/description.php?Dataset=ECG5000** 
 > 2. **https://www.openml.org/search?type=data&sort=runs&id=44794&status=active** 
