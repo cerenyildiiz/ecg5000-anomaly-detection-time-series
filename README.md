@@ -31,7 +31,7 @@ data/
 ## Purpose of the Study
 The aim of this study is to use electrocardiogram (`ECG`) data to detect anomalies in a patient’s heartbeat.
 ```text
-There are five classes:
+There are five classes for hearbeats:
 1) Normal (N)
 2) R-on-T Premature Ventricular Contraction (Ron-T PVC)
 3) Premature Ventricular Contraction (PVC)
