@@ -17,7 +17,7 @@ ecg5000-anomaly-detection-time-series/
 │   ├── ecg.csv
 │   └── README.md
 ├── papers/
-│   └── related research papers
+│   └── related research papers...
 ├── ecg5000.py
 └── README.md
 
