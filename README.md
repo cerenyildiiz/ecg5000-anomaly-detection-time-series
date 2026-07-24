@@ -5,6 +5,23 @@
 
 The `ECG5000 ` dataset contains 5,000 ECG heartbeat samples. Each sample consists of 140 numerical features representing the ECG signal and 1 target variable (`class`). There are no missing values in the dataset. More details about the dataset can be found on the OpenML website ([Luís Ferreira, 2022](https://www.openml.org/search?type=data&id=44794)).
 
+
+## Project Structure
+
+```text
+ecg5000-anomaly-detection-time-series/
+├── data/
+│   ├── ECG5000.zip
+│   ├── ECG5000_TRAIN.txt
+│   ├── ECG5000_TEST.txt
+│   ├── ecg.csv
+│   └── README.md
+├── papers/
+│   └── related research papers
+├── ecg5000.py
+└── README.md
+
+
 ## Dataset File Structure
 
 This folder contains the ECG5000 dataset used in this study.
