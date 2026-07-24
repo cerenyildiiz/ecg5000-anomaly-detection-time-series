@@ -1,3 +1,6 @@
+
+
+
 # Time Series Anomaly Detection with LSTM Autoencoder (ECG5000)
 
 The `ECG5000 ` dataset contains 5,000 ECG heartbeat samples. Each sample consists of 140 numerical features representing the ECG signal and 1 target variable (`class`). There are no missing values in the dataset. More details about the dataset can be found on the OpenML website ([Luís Ferreira, 2022](https://www.openml.org/search?type=data&id=44794)).
@@ -25,8 +28,8 @@ data/
 
 
 
-
-
+## Purpose of the Study
+The aim of this study is to use electrocardiogram data to detect anomalies in a patient’s heartbeat.
 
 
 >  ##   **References:**
