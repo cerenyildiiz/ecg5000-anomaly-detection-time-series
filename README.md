@@ -29,20 +29,20 @@ data/
 
 
 ## Purpose of the Study
-The aim of this study is to use electrocardiogram `(ECG)` data to detect anomalies in a patient’s heartbeat.
+
 ```text
-The ECG5000 dataset contains the following five heartbeat classes:
+The aim of this study is to use electrocardiogram (ECG) data to detect anomalies in a patient’s heartbeat.
+
+The ECG5000 dataset includes five different heartbeat classes. Since this study focuses on anomaly detection, these classes are grouped into normal and anomalous heartbeats as follows:
 
 1. Normal beat (N)
 2. R-on-T Premature Ventricular Contraction (R-on-T PVC)
 3. Premature Ventricular Contraction (PVC)
 4. Supraventricular Premature or Ectopic Beat (SP)
 5. Unclassified Beat (UB)
-
-For the anomaly detection task, the classes are grouped as follows:
-
-* Normal: Class 1
-* Anomalous: Classes 2, 3, 4, and 5
+For the anomaly detection task:
+• Normal: Class 1
+• Anomalous: Classes 2, 3, 4, and 5
 ```
 >  ##   **References:**
 > 1.  **https://www.timeseriesclassification.com/description.php?Dataset=ECG5000** 
