@@ -31,12 +31,18 @@ data/
 ## Purpose of the Study
 The aim of this study is to use electrocardiogram `(ECG)` data to detect anomalies in a patient’s heartbeat.
 ```text
-There are five classes for hearbeats:
-1) Normal (N)
-2) R-on-T Premature Ventricular Contraction (Ron-T PVC)
-3) Premature Ventricular Contraction (PVC)
-4) Supraventricular Premature or Ectopic beat (SP)
-5) Unclassified beat (UB)
+The ECG5000 dataset contains the following five heartbeat classes:
+
+1. Normal beat (N)
+2. R-on-T Premature Ventricular Contraction (R-on-T PVC)
+3. Premature Ventricular Contraction (PVC)
+4. Supraventricular Premature or Ectopic Beat (SP)
+5. Unclassified Beat (UB)
+
+For the anomaly detection task, the classes are grouped as follows:
+
+* Normal: Class 1
+* Anomalous: Classes 2, 3, 4, and 5
 ```
 >  ##   **References:**
 > 1.  **https://www.timeseriesclassification.com/description.php?Dataset=ECG5000** 
