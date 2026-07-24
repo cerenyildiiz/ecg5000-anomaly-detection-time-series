@@ -1,6 +1,6 @@
 ## Dataset
 
-This folder contains the ECG5000 dataset used in this project.
+This folder contains the ECG5000 dataset used in this study.
 
 ```text
 data/
