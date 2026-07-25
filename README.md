@@ -22,7 +22,7 @@ ecg5000-anomaly-detection-time-series/
 │   └── README.md #Project manuscript and LaTeX files
 │
 ├── papers/
-│   └── Related research papers
+│   └── Related research papers...
 │
 ├── ecg5000.py
 ├── my-study.tex
