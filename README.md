@@ -85,7 +85,7 @@ This study is presented in two parts.In the first part,
 
 
 
-*Fig. 1. The graph shows the distribution of heartbeat classes in the ECG5000 dataset.*
+*Fig. 1. The graph shows the distribution of heartbeat classes(target) in the ECG5000 dataset.*
 
 ## Languages
 ```text
