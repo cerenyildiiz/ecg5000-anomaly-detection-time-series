@@ -76,7 +76,7 @@ This study is presented in two parts.In the first part,
 
 
 
-
+## Exploratory Data Analysis 
 
 
 <img width="3000" height="1800" alt="heartbeat_class_distribution" src="https://github.com/user-attachments/assets/703da7ac-0c55-4864-94e8-c3af6eb71e8d" />
