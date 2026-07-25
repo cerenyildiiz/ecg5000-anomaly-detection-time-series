@@ -74,6 +74,14 @@ For the anomaly detection task:
 
 This study is presented in two parts.In the first part, 
 
+
+## Languages
+```text
+- Python
+- R
+```
+
+
 ## References
 
 - **Time Series Classification Archive ECG5000 Dataset**  
