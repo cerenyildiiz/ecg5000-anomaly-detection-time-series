@@ -54,7 +54,7 @@ data/
 ## Purpose of the Study
 
 
-The aim of this study is to use electrocardiogram (ECG) data to detect anomalies in a patient’s heartbeat.This study is presented in two parts.
+The aim of this study is to use electrocardiogram (ECG) data to detect anomalies in a patient’s heartbeat.
 ```text
 The ECG5000 dataset includes five different heartbeat classes. Since this study focuses on anomaly detection, these classes are grouped into normal and anomalous heartbeats as follows:
 
@@ -72,7 +72,7 @@ For the anomaly detection task:
 • Anomalous: Classes 2, 3, 4, and 5
 ```
 
-
+This study is presented in two parts.In the first part, 
 
 ## References
 
