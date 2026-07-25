@@ -78,7 +78,7 @@ This study is presented in two parts.In the first part,
 ## Languages
 ```text
 - Python
-- R
+- R (for detailed Explainable AI (XAI) analysis)
 ```
 
 
