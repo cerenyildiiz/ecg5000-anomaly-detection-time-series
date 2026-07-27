@@ -87,6 +87,11 @@ This study is presented in two parts.In the first part,
 
 *Fig. 1. The graph shows the distribution of heartbeat classes(target) in the ECG5000 dataset.*
 
+
+<img width="9900" height="6300" alt="image" src="https://github.com/user-attachments/assets/49fade5f-9f5e-4eaf-972d-fcea4411117f" />
+
+
+
 ## Languages
 ```text
 - Python
