@@ -72,7 +72,6 @@ For the anomaly detection task:
 • Anomalous: Classes 2, 3, 4, and 5
 ```
 
-This study is presented in two parts.In the first part, 
 
 
 
@@ -91,6 +90,13 @@ This study is presented in two parts.In the first part,
 <img width="9900" height="6300" alt="image" src="https://github.com/user-attachments/assets/49fade5f-9f5e-4eaf-972d-fcea4411117f" />
 
 *Fig. 2. The graph shows the .*
+
+
+
+This study is presented in two parts.In the first part, 
+
+
+
 
 ## Languages
 ```text
