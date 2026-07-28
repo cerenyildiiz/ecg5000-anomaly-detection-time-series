@@ -107,7 +107,7 @@ This study is presented in two parts.In the first part,
 
 ## References
 
-- **Time Series Classification Archive ECG5000 Dataset**  
+- **Time Series Classification Archive ECG5000 Dataset (Chen & Keogh, n.d.)**
   https://www.timeseriesclassification.com/description.php?Dataset=ECG5000
 
 - **OpenML – ECG5000 Dataset (Luís Ferreira, 2022)**  
