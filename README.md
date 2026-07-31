@@ -100,7 +100,7 @@ This study is presented in two parts.In the first part,
 
 
 
-
+##  1D Convolutional Neural Network (1D CNN)
 
 ```text
 
