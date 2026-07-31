@@ -98,6 +98,16 @@ This study is presented in two parts.In the first part,
 
 
 
+
+
+
+
+<img width="7000" height="4200" alt="cnn_learning_curve" src="https://github.com/user-attachments/assets/bd145a8b-9ae9-46f2-9efb-5b604840ba64" />
+
+A single-layer 1D CNN is used for processing one-dimensional data such as time series and signal data. Therefore, this study begins with the introduction of the 1D CNN architecture.
+
+*Fig. 3. The graph shows the training and validation MSE loss of the 1D CNN model over 10 epochs.*
+
 ## Languages
 ```text
 - Python
