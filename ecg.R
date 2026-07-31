@@ -1,7 +1,7 @@
 
 # install.packages(c("torch", "readr", "dplyr", "ggplot2", "tidyr", "coro"))
 
-library(torch)
+library(torch) # used for PyTorch-based tensors and deep learning in R
 library(readr)
 library(dplyr)
 library(ggplot2)
