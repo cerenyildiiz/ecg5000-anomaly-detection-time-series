@@ -104,7 +104,7 @@ This study is presented in two parts.In the first part,
 
 ```text
 
-A single-layer 1D CNN is used for processing one-dimensional data such as time series and signal data. Therefore, this study begins with the introduction of the 1D CNN architecture. GeeksforGeeks. (2024, February 19). What is a 1D Convolutional Layer in Deep Learning? https://www.geeksforgeeks.org/deep-learning/what-is-a-1d-convolutional-layer-in-deep-learning/
+A single-layer 1D CNN is used for processing one-dimensional data such as time series and signal data. Therefore, this study begins with the introduction of the 1D CNN architecture. 
 
 ```
 <img width="7000" height="4200" alt="cnn_learning_curve" src="https://github.com/user-attachments/assets/13b4550c-466e-406a-9306-32d5b4774963" />
@@ -124,6 +124,12 @@ A single-layer 1D CNN is used for processing one-dimensional data such as time s
 | Loss Function | Mean Squared Error (MSE) |
 | Batch Size | 32 |
 | Epochs | 10 |
+
+
+
+
+
+<img width="1800" height="2200" alt="cnn_architecture" src="https://github.com/user-attachments/assets/461975eb-ed0f-467e-b0a1-3ad969b9e203" />
 
 ## Languages
 ```text
