@@ -113,6 +113,18 @@ A single-layer 1D CNN is used for processing one-dimensional data such as time s
 
 *Fig. 3. The graph shows the training and validation MSE loss of the 1D CNN model over 10 epochs.*
 
+
+
+##  Hyperparameters
+| Setting | Value |
+|----------|-------|
+| Model | Single-Layer 1D CNN |
+| Optimizer | Adam |
+| Learning Rate | 0.001 |
+| Loss Function | Mean Squared Error (MSE) |
+| Batch Size | 32 |
+| Epochs | 10 |
+
 ## Languages
 ```text
 - Python
