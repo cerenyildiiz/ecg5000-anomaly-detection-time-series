@@ -128,8 +128,9 @@ A single-layer 1D CNN is used for processing one-dimensional data such as time s
 
 
 
+<img width="1309" height="1600" alt="image" src="https://github.com/user-attachments/assets/951f9186-307b-4c73-adcd-a50d259d459c" />
 
-<img width="1800" height="2200" alt="cnn_architecture" src="https://github.com/user-attachments/assets/461975eb-ed0f-467e-b0a1-3ad969b9e203" />
+
 
 ## Languages
 ```text
