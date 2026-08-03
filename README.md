@@ -89,9 +89,11 @@ For the anomaly detection task:
 
 <img width="9900" height="6300" alt="image" src="https://github.com/user-attachments/assets/49fade5f-9f5e-4eaf-972d-fcea4411117f" />
 
-*Fig. 2. The graph shows the .*
+*Fig. 2. The graph shows the mean ECG signals of the five heartbeat classes.*
 
 
+
+Amplitude represents the electrical potential of the heart measured at each time point. Each heartbeat in the ECG5000 dataset is represented as a sequence of 140 amplitude values over time.
 
 This study is presented in two parts.In the first part, 
 
