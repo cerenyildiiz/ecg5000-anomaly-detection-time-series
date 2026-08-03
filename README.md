@@ -16,19 +16,23 @@ ecg5000-anomaly-detection-time-series/
 │   ├── ECG5000_TRAIN.txt
 │   ├── ECG5000_TEST.txt
 │   ├── ecg.csv
-│   └── README.md
+│   ├── ecg-description.json
+│   └── README.md                  # Dataset documentation
 │
 ├── my paper/
-│   └── README.md #Project manuscript and LaTeX files
+│   └── README.md                  # Project manuscript and LaTeX files
 │
-├── papers/
-│   └── Related research papers...
+├── papers/                        # Related research papers
 │
-├── ecg5000.py
-├── my-study.tex
-└── README.md
+├── plots/                         # Generated figures
+│
+├── ecg.R                          # R implementation
+├── ecg5000.py                     # Python implementation
+├── my-study.tex                   # LaTeX manuscript
+└── README.md                      # Project overview
 ```
-## Dataset File Structure
+
+## Dataset Structure
 
 This folder contains the ECG5000 dataset used in this study.
 
@@ -38,6 +42,7 @@ data/
 ├── ECG5000_TRAIN.txt
 ├── ECG5000_TEST.txt
 ├── ecg.csv
+├── ecg-description.json
 └── README.md
 ```
 
@@ -46,9 +51,9 @@ data/
 | `ECG5000.zip` | Original ECG5000 dataset archive downloaded from the source. |
 | `ECG5000_TRAIN.txt` | Original training dataset. |
 | `ECG5000_TEST.txt` | Original test dataset. |
-| `ecg.csv` | Combined CSV file created by merging the original training and test datasets for this project. |
-| `README.md` | Description of the dataset files included in this folder. |
-
+| `ecg.csv` | Combined dataset created by merging the training and test sets. |
+| `ecg-description.json` | Dataset metadata, including dataset characteristics and descriptive information. |
+| `README.md` | Documentation for the dataset folder. |
 
 
 ## Purpose of the Study
