@@ -138,10 +138,9 @@ A single-layer 1D CNN is used for processing one-dimensional data such as time s
 <img width="1309" height="1600" alt="image" src="https://github.com/user-attachments/assets/951f9186-307b-4c73-adcd-a50d259d459c" />
 
 
+In the literature, several studies have adopted SMOTE to mitigate class imbalance and have employed Logistic Regression (LR) and Support Vector Machine (SVM)-based approaches.Also,Explainable Artificial Intelligence (XAI) techniques, particularly SHAP, have been used to enhance the interpretability of model predictions (Nayana & Vinay, 2026).
 
-
- In the literature, several studies have adopted SMOTE to mitigate class imbalance and have employed Logistic Regression (LR) and Support Vector Machine (SVM)-based approaches.Also, Explainable Artificial Intelligence (XAI) techniques, particularly SHAP, have been employed to enhance the interpretability of model predictions (Nayana & Vinay, 2026). 
-
+ 
 ## Languages
 ```text
 - Python
