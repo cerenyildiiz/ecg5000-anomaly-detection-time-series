@@ -140,7 +140,18 @@ A single-layer 1D CNN is used for processing one-dimensional data such as time s
 
 In the literature, several studies have adopted SMOTE to mitigate class imbalance and have employed Logistic Regression (LR) and Support Vector Machine (SVM)-based approaches.Also,Explainable Artificial Intelligence (XAI) techniques, particularly SHAP, have been used to enhance the interpretability of model predictions (Nayana & Vinay, 2026).
 
+
+
+
  
+## Explainable Artificial Intelligence (XAI)
+
+Since the data are time-series data, the SHAP analysis will be performed over the time dimension.
+
+
+
+
+
 ## Languages
 ```text
 - Python
