@@ -123,8 +123,10 @@ A single-layer 1D CNN is used for processing one-dimensional data such as time s
 
 
 ##  Hyperparameters
+<div align="center">
+
 | Setting | Value |
-|----------|-------|
+|---------|-------|
 | Model | Single-Layer 1D CNN |
 | Optimizer | Adam |
 | Learning Rate | 0.001 |
@@ -132,6 +134,7 @@ A single-layer 1D CNN is used for processing one-dimensional data such as time s
 | Batch Size | 32 |
 | Epochs | 10 |
 
+</div>
 
 
 
