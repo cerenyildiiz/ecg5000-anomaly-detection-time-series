@@ -77,7 +77,13 @@ For the anomaly detection task:
 • Anomalous: Classes 2, 3, 4, and 5
 ```
 
+## Research Paper
 
+The full manuscript for this study is available below:
+
+[Anomaly Detection for Healthcare Applications (PDF)](my%20paper/Anomaly%20Detection%20for%20Healthcare%20Applications.pdf)
+
+This study focuses on detecting abnormal patterns in biomedical time-series data, using ECG signals as an example. It discusses deep learning approaches, including 1D-CNN and LSTM architectures, for analyzing normal and anomalous heartbeat patterns.
 
 
 ## Exploratory Data Analysis 
