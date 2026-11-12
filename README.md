@@ -88,6 +88,7 @@ Undoubtedly, creating a Gantt chart is a great way to establish a more structure
 
 *Fig. 5. Gantt chart of the project phases (July – November 2026).*
 
+[ Gantt Charts – Community Contributions for EDAV](https://jtr13.github.io/cc19/gantt-charts.html)
 ## Research Paper
 
 ### Literature Investigation with a Preliminary ECG5000 Case Study
