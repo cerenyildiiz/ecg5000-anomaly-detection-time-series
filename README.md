@@ -80,7 +80,7 @@ For the anomaly detection task:
 
 ## Project Timeline
 
-![Project Gantt chart] (<img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/39509ffa-0eb0-4ff4-b7ea-30735747c769" />)
+<img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/03f585a0-008c-4c07-b991-d10b816f64dc" />
 
 
 *Fig. 5. Gantt chart of the project phases (July – November 2026).*
