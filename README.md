@@ -77,6 +77,14 @@ For the anomaly detection task:
 • Anomalous: Classes 2, 3, 4, and 5
 ```
 
+
+## Project Timeline
+
+![Project Gantt chart] (<img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/39509ffa-0eb0-4ff4-b7ea-30735747c769" />)
+
+
+*Fig. 5. Gantt chart of the project phases (July – November 2026).*
+
 ## Research Paper
 
 ### Literature Investigation with a Preliminary ECG5000 Case Study
